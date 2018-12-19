@@ -1,5 +1,5 @@
 ---
-layout: category-post
+layout: post
 title:  "Talking science with the wild shutterbug!"
 date:   2018-12-20
 categories: episodes

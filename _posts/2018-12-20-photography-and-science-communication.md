@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Talking science with the wild shutterbug!"
+title:  "Ep1: Talking science with the wild shutterbug!"
 date:   2018-12-20
 categories: episodes
 ---
